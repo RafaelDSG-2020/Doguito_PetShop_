@@ -1,0 +1,62 @@
+[
+  {
+    "cargo": "administrador",
+    "matricula": "12345",
+    "id": "83801f8e-756a-44af-a396-e126ee82d584",
+    "nome": "Admin",
+    "cpf": "123",
+    "telefone": "101010",
+    "email": "admin@gmail.com",
+    "cep": "59621010",
+    "endereco": {
+      "cep": "59621-010",
+      "logradouro": "Rua Pedro Velho",
+      "bairro": "Barrocas",
+      "localidade": "Mossoró",
+      "uf": "RN"
+    },
+    "numero": "420",
+    "login": "admin",
+    "senha": "123"
+  },
+  {
+    "cargo": "dr",
+    "matricula": "3455",
+    "id": "4bc27fd2-fbb5-4ec9-8249-0bc475d37c8e",
+    "nome": "Paulo",
+    "cpf": "345",
+    "telefone": "45",
+    "email": "pauloaaa",
+    "cep": "59621010",
+    "endereco": {
+      "cep": "59621-010",
+      "logradouro": "Rua Pedro Velho",
+      "bairro": "Barrocas",
+      "localidade": "Mossoró",
+      "uf": "RN"
+    },
+    "numero": "20",
+    "login": "paulolegal",
+    "senha": "re"
+  },
+  {
+    "cargo": "veterinaria",
+    "matricula": "1564",
+    "id": "91a8681c-a7a4-4368-9ef1-90e86e41c9e5",
+    "nome": "roberta3",
+    "cpf": "896712323",
+    "telefone": "678974",
+    "email": "roberta@gmail.com",
+    "cep": "59621-010",
+    "endereco": {
+      "cep": "59621-010",
+      "logradouro": "Rua Pedro Velho",
+      "bairro": "Barrocas",
+      "localidade": "Mossoró",
+      "uf": "RN"
+    },
+    "numero": "4567",
+    "login": "roberta",
+    "senha": "321"
+  }
+]
