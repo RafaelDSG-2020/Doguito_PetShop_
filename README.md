@@ -24,7 +24,6 @@ O Doguito Petshop é um projeto em Java que oferece serviços de agendamento de 
 Certifique-se de ter o seguinte software instalado em sua máquina:
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - versão 8 ou superior.
-- [Apache Maven](https://maven.apache.org/download.cgi) - para compilação e gerenciamento de dependências.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) - para desenvolvimento e execução do projeto.
 
 ## Como Executar
