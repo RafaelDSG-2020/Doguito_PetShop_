@@ -1,4 +1,3 @@
-Compreendido, vou remover a menção ao Hibernate e ajustar o passo a passo para a importação da pasta no IntelliJ IDEA.
 
 # Doguito Petshop
 
