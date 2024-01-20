@@ -1,4 +1,5 @@
 
+
 # Doguito Petshop
 
 O Doguito Petshop é um projeto em Java que oferece serviços de agendamento de consultas para animais de estimação. Este sistema foi desenvolvido seguindo uma arquitetura cliente-servidor, implementando medidas de segurança na troca de mensagens com a utilização de `javax.net.ssl.SSLSocket`, utilizando microserviços e consultando uma API via CEP para melhorar a experiência do usuário.
